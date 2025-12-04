@@ -24,7 +24,6 @@ battery-guardian/
 ├─ battery_daemon.py        # Daemon principal
 ├─ install.sh               # Instalador (crea bin, .env, systemd user unit)
 ├─ .env.example             # Ejemplo de configuración
-├─ systemd/                 # (opcional) unidades .service / .timer
 └─ README.md
 ```
 
